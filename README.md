@@ -16,7 +16,6 @@ Customer churn is when an existing customer, user, subscriber or any kind of ret
 ## Files descriptions <a name="filesdescriptions"></a>
 
 * `Sparkify.ipynb` is a jupyter notebook with the analysis and results for this project.
-* `Sparkify.html` is a HTML version of the above notebook.
 
 ## Libraries <a name="libraries"></a>
 
