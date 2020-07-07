@@ -1,7 +1,5 @@
 # Predicting churn with PySpark
 
-This repository contains a project completed as part of Data Scientist Nanodegree at Udacity.
-
 ## Table of Contents
 
 1. [Motivation](#motivation)
